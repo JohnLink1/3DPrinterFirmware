@@ -32,6 +32,8 @@
 *.exe
 *.out
 *.app
+*.bin
+*.elf
 *.i*86
 *.x86_64
 *.hex
